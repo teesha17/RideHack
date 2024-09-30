@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import Navabr from '../../components/Navbar/Navabr'
+import Navabr from '../../components/navbar/Navabr'
 import { FaBuilding } from "react-icons/fa";
 import { IoPerson } from "react-icons/io5";
 import { FaCashRegister } from "react-icons/fa";
