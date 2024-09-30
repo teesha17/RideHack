@@ -1,0 +1,15 @@
+.home-container{
+    text-align: center;
+    padding-top:7%;
+}
+span {
+    background: linear-gradient(45deg, #8400ff, #00aaff);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
+@media screen and (max-width: 768px) {
+    .home-container{
+        padding:50px;
+    }
+}
